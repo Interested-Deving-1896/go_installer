@@ -1,16 +1,75 @@
-## GO INSTALLER.
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# go_installer
 
-I have created this script to help me install and setup **GO** on linux.
-The script basically does all that is needed to setup **GO**
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/go_installer)
 
-*Overview*
-The Go Installer Script automates the process of downloading and installing the Go programming language on Linux systems.
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-## Installation
-To install Go using the installer script, run the following command in your terminal:
+## Architecture
+
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
+
+## Install
+
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/shadmeoli/go_installer/master/install_go.sh | bash -s -- --setup
+git clone https://github.com/Interested-Deving-1896/go_installer.git
+cd go_installer
 ```
 
-![cmd](install_go.gif)
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/go_installer`](https://github.com/Interested-Deving-1896/go_installer) and mirrored through:
+
+```
+Interested-Deving-1896/go_installer  ──►  OpenOS-Project-OSP/go_installer  ──►  OpenOS-Project-Ecosystem-OOC/go_installer
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[MIT](https://github.com/Interested-Deving-1896/go_installer/blob/master/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
